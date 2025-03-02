@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: black;
+    color: white;
+    padding: 15vw;
+}
+
+.main button {
+    margin: 5vw;
+}
+
+#start {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    color: white;
+    font-size: 2vw;
+    font-weight: 800;
+    cursor: pointer;
+    width: 200px;
+    padding: 1vw;
+}
+
+#stop {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    color: white;
+    font-size: 2vw;
+    font-weight: 800;
+    cursor: pointer;
+    width: 200px;
+    padding: 1vw;
+}
